@@ -268,7 +268,7 @@ const laptops = [
       { label: 'Warranty', value: '2 years' },
     ],
     // This laptop's pre-filled Google Form link (added later)
-    formUrl: 'https://docs.google.com/forms/d/e/1FAIpQLSd0A7MQ2ZyBB4mrP9GNiP724prDbpOWDMxSee355yzdZ9KMXw/viewform?usp=pp_url&entry.1491534940=Option+3+%E2%80%93+Lenovo+IdeaPad+Slim+3+15IWC11+(Core+5+320)',
+    formUrl: 'https://docs.google.com/forms/d/e/1FAIpQLSd0A7MQ2ZyBB4mrP9GNiP724prDbpOWDMxSee355yzdZ9KMXw/viewform?usp=pp_url&entry.1491534940=Option+4+%E2%80%93+Lenovo+IdeaPad+Slim+5+14IMH10+(Core+Ultra+5)',
   },
 ]
 
